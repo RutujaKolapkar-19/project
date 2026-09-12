@@ -1,0 +1,3 @@
+# todays concept is merge conflict
+# we are writing this text to understand the topic.
+# in order to generate conflict we are writing code  on same file path, same line 
