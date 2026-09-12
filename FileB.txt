@@ -1,3 +1,7 @@
 #This file is to complete task given by teacher
 #Task is to do any 5 changes then add and then commit it
 #After adding push it to origin main
+#Now I had created tag v2.o. we can do some changes to file
+#After changes we can add and commit them. after commit we provide tag name 
+#So basically we give tag to specific commits one tag for one commit like that
+#tags are like bookmark for commits
