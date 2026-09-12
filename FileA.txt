@@ -1,3 +1,8 @@
+
 # todays concept is merge conflict
 # we are writing this text to understand the topic.
 # in order to generate conflict we are writing code  on same file path, same line 
+# this is some text to generate merge conflict.
+#for understanding of merge conflict
+# by combining code  now I had resolved issue of merge conflict.
+
