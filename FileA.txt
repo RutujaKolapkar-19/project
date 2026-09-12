@@ -1,0 +1,2 @@
+# this is some text to generate merge conflict.
+#for understanding of merge conflict
